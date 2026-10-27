@@ -1,0 +1,6 @@
+claim_id,payer,denial_reason,amount,patient_age_group
+1001,Aetna,CO-50,150,12-17
+1002,BCBS,CO-96,200,51+
+1003,Medicare,CO-97,120,51+
+1004,Aetna,CO-50,180,12-17
+1005,United,CO-50,90,17-25
